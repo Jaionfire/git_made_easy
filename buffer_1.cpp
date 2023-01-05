@@ -7,6 +7,7 @@
 using namespace std;
 fstream fin;
 fstream fout;
+int j;
 void process_convolution(int *p);
 //void display();
 void file_read_write_to_buffer();
